@@ -13,6 +13,8 @@ Zorg dat je dat eerst hebt geïnstalleerd en voer in de hoofdmap van dit project
 
 ```composer install```
 
+test
+
 Dit commando installeert alle afhankelijkheden die je hebt ingesteld in het bestand ```composer.json```.
  
 ---
